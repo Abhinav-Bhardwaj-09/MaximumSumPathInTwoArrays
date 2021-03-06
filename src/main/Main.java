@@ -31,8 +31,13 @@ public class Main {
                 arr2[index] = sc.nextInt();
             }
 
-            MaximumSum mx = new MaximumSum(arr1, arr2);
+            MaximumSum msp = new MaximumSum(arr1, arr2);
 
+            result[test_case] = msp.maximumPathSum();
+        }
+
+        for(int element : result){
+            System.out.println(element);
         }
     }
 }
