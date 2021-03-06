@@ -17,4 +17,25 @@ Input Format:-
     
 Output Format:-
 
-    Print the maximum path.
+    Print the sum of maximum path.
+
+
+<br /><br /><br /><br /><br />
+Example:
+<br /><br />
+Input:-
+
+    1
+    8 8
+    1 4 6 10 12 13 32 36
+    1 5 6 8 10 15 16 17
+
+
+Output:-
+
+    123
+
+
+Explaination:-
+
+        Sum of path ( 1, 5, 6, 8, 10, 12, 13, 32, 36) is 123.
