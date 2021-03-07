@@ -38,4 +38,4 @@ Output:-
 
 Explaination:-
 
-        Sum of path ( 1, 5, 6, 8, 10, 12, 13, 32, 36) is 123.
+    Sum of path ( 1, 5, 6, 8, 10, 12, 13, 32, 36) is 123.
